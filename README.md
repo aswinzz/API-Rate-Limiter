@@ -22,7 +22,7 @@
 
 ### Screenshots
 <p align="center"> 
-<img src="https://github.com/aswinzz/url-shortner/blob/master/ss.png" />
+<img src="https://github.com/aswinzz/API-Rate-Limiter/blob/master/ss.png" />
 </p>
 
 ### Future Plans
